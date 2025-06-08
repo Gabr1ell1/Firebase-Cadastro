@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061520610950",
+    "project_id": "appaula-80d0b",
+    "storage_bucket": "appaula-80d0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061520610950:android:aa9cf37c0adcba84142307",
+        "android_client_info": {
+          "package_name": "com.company.appaula"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33QBdnMeN1NV8O0DuJodl3FQDH38wiDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061520610950:android:f7285f48dff1c6a1142307",
+        "android_client_info": {
+          "package_name": "com.example.appaula"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33QBdnMeN1NV8O0DuJodl3FQDH38wiDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
